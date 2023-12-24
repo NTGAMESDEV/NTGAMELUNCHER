@@ -1,0 +1,75 @@
+[
+	{
+    "id": 1,
+    "openserver":"open",
+    "gamefile" :"ALLDAYGAMES",
+    	"apiserver":"https://api.npoint.io/e189ae4ec1f68b9b82b7",
+		"ipserver":"191.96.92.106",
+		"listname":"SEVER COMMUNITY | ROLEPLAY",
+		"ServerName":"ALLDAY GAMES 2.0",
+    "imglist":"https://media.discordapp.net/attachments/789456276102053898/1188162459102621867/2.png",
+    "imglistto":"https://media.discordapp.net/attachments/789456276102053898/1188162458850951290/1.png",
+		"logoserver":"https://cdn.discordapp.com/attachments/1076497177884491897/1160058108517822494/ALLDAYGAMES.png"
+	},
+	{
+    "id": 2,
+    "openserver":"open",
+    "gamefile" :"WorldFuture",
+    	"apiserver":"http://147.50.252.112/NTGAMELUNCHER/aipbynattawat.json",
+		"ipserver":"147.50.252.112",
+		"ServerName":"4KING WorldFuture",
+		"listname":"SEVER 4KING",
+    "imglist":"https://media.discordapp.net/attachments/789456276102053898/1188162459740143678/4.png",
+    "imglistto":"https://media.discordapp.net/attachments/789456276102053898/1188162459366858873/3.png",
+		"logoserver":"https://cdn.discordapp.com/attachments/965812336906633267/1054798852009512980/20221220_211816.png"
+		
+	},
+	{
+    "id": 3,
+    "openserver":"open",
+    "gamefile" :"LOSTMANCITY",
+    "apiserver":"http://210.246.215.67/NTLAUNCHERUPDATE/aipbynattawat.json",
+		"ipserver":"210.246.215.67",
+		"listname":"SEVER LOSTMAN CITY",
+		"ServerName":"LOSTMAN CITY",
+    "imglist":"https://media.discordapp.net/attachments/789456276102053898/1188162460637724762/6.png",
+    "imglistto":"https://media.discordapp.net/attachments/789456276102053898/1188162460235079790/5.png",
+		"logoserver":"https://cdn.discordapp.com/attachments/1096554813552066751/1166266350562447411/IMG_1650.png"
+	},
+	{
+   "id": 4,
+   "openserver":"off",
+   "gamefile" :"None Server",
+   	"apiserver":"https://api.npoint.io/a4ca6c484cd1422e61fb",
+		"ipserver":"127.0.0.1",
+		"listname":"None Server",
+		"ServerName":"None Server",
+    "imglist":"https://media.discordapp.net/attachments/789456276102053898/1188184512799195218/7.png",
+    "imglistto":"https://media.discordapp.net/attachments/789456276102053898/1188184512799195218/7.png",
+		"logoserver":"https://cdn.discordapp.com/attachments/789456276102053898/1188207291615432715/nt_menu_warning.png"
+	},
+	{
+    "id": 5,
+    "openserver":"off",
+    "gamefile" :"None Server",
+    "apiserver":"https://api.npoint.io/a4ca6c484cd1422e61fb",
+		"ipserver":"127.0.0.1",
+		"listname":"None Server",
+		"ServerName":"None Server",
+    "imglist":"https://media.discordapp.net/attachments/789456276102053898/1188184513076023426/8.png",
+    "imglistto":"https://media.discordapp.net/attachments/789456276102053898/1188184513076023426/8.png",
+		"logoserver":"https://cdn.discordapp.com/attachments/789456276102053898/1188207291615432715/nt_menu_warning.png"
+	},
+	{
+    "id": 6,
+    "openserver":"off",
+    "gamefile" :"None Server",
+    "apiserver":"https://api.npoint.io/a4ca6c484cd1422e61fb",
+		"ipserver":"127.0.0.1",
+		"listname":"None Server",
+		"ServerName":"None Server",
+    "imglist":"https://media.discordapp.net/attachments/789456276102053898/1188184513403174982/9.png",
+    "imglistto":"https://media.discordapp.net/attachments/789456276102053898/1188184513403174982/9.png",
+		"logoserver":"https://cdn.discordapp.com/attachments/789456276102053898/1188207291615432715/nt_menu_warning.png"
+	}
+]
