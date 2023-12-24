@@ -38,7 +38,7 @@
 	},
 	{
    "id": 4,
-   "openserver":"off",
+   "openserver":"open",
    "gamefile" :"None Server",
    	"apiserver":"https://api.npoint.io/a4ca6c484cd1422e61fb",
 		"ipserver":"127.0.0.1",
